@@ -9,7 +9,10 @@
 }  
 .swiper-slide img{
     width: 100%;
-}  
+} 
+
 .swiper-pagination{
-    position: inherit;
+    position: initial;
+    margin: .5em 0;
+
 }
